@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1759972100 source:e:\github\educacion\utn\programacion1-20252c\semana 09\miercoles\dados25\main.cpp
+	<iostream>
+	<ctime>
+	"jugar.h"
+
+1759972045 e:\github\educacion\utn\programacion1-20252c\semana 09\miercoles\dados25\jugar.h
+	<string>
+
+1759971814 source:e:\github\educacion\utn\programacion1-20252c\semana 09\miercoles\dados25\jugar.cpp
+	<iostream>
+	"jugar.h"
+	"funcionesNumericas.h"
+
+1759970739 source:e:\github\educacion\utn\programacion1-20252c\semana 09\miercoles\dados25\funcionesnumericas.cpp
+	<iostream>
+	"funcionesNumericas.h"
+
+1759970679 e:\github\educacion\utn\programacion1-20252c\semana 09\miercoles\dados25\funcionesnumericas.h
+
+1759970739 source:e:\github\educacion\utn\programacion1-20252c\semana 10\miercoles\dados25\funcionesnumericas.cpp
+	<iostream>
+	"funcionesNumericas.h"
+
+1759970679 e:\github\educacion\utn\programacion1-20252c\semana 10\miercoles\dados25\funcionesnumericas.h
+
+1760575616 source:e:\github\educacion\utn\programacion1-20252c\semana 10\miercoles\dados25\main.cpp
+	<iostream>
+	<ctime>
+	"jugar.h"
+
+1760575768 e:\github\educacion\utn\programacion1-20252c\semana 10\miercoles\dados25\jugar.h
+	<string>
+
